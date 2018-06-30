@@ -1,0 +1,823 @@
+{
+  "_class": "page",
+  "do_objectID": "8D6C7AEF-0EC2-47C5-B11F-D823AA572503",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": true,
+  "layers": [{
+    "_class": "group",
+    "do_objectID": "B5B4674C-8BDF-4AB5-9315-150441754458",
+    "exportOptions": {
+      "_class": "exportOptions",
+      "exportFormats": [{
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }, {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }, {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }],
+      "includedLayerIds": [],
+      "layerOptions": 0,
+      "shouldTrim": false
+    },
+    "frame": {
+      "_class": "rect",
+      "constrainProportions": false,
+      "height": 1200,
+      "width": 2400,
+      "x": 0,
+      "y": -49
+    },
+    "isFlippedHorizontal": false,
+    "isFlippedVertical": false,
+    "isLocked": false,
+    "isVisible": true,
+    "layerListExpandedType": 0,
+    "name": "cover",
+    "nameIsFixed": true,
+    "resizingConstraint": 63,
+    "resizingType": 0,
+    "rotation": 0,
+    "shouldBreakMaskChain": false,
+    "style": {
+      "_class": "style",
+      "endDecorationType": 0,
+      "miterLimit": 10,
+      "startDecorationType": 0
+    },
+    "hasClickThrough": false,
+    "layers": [{
+      "_class": "shapeGroup",
+      "do_objectID": "6D7F69A9-8417-4AAB-8C45-B962147ED4E4",
+      "exportOptions": {
+        "_class": "exportOptions",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+      },
+      "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 1200,
+        "width": 2400,
+        "x": 0,
+        "y": 0
+      },
+      "isFlippedHorizontal": false,
+      "isFlippedVertical": false,
+      "isLocked": false,
+      "isVisible": true,
+      "layerListExpandedType": 1,
+      "name": "bg",
+      "nameIsFixed": true,
+      "resizingConstraint": 63,
+      "resizingType": 0,
+      "rotation": 0,
+      "shouldBreakMaskChain": false,
+      "style": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "fills": [{
+          "_class": "fill",
+          "isEnabled": true,
+          "color": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "fillType": 0,
+          "noiseIndex": 0,
+          "noiseIntensity": 0,
+          "patternFillType": 1,
+          "patternTileScale": 1
+        }],
+        "miterLimit": 10,
+        "startDecorationType": 0
+      },
+      "hasClickThrough": false,
+      "layers": [{
+        "_class": "rectangle",
+        "do_objectID": "050B7CCC-6719-4172-BE84-A66C8290092D",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "exportFormats": [],
+          "includedLayerIds": [],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 1200,
+          "width": 2400,
+          "x": 0,
+          "y": 0
+        },
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "name": "Path",
+        "nameIsFixed": false,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": false,
+        "booleanOperation": -1,
+        "edited": false,
+        "isClosed": true,
+        "pointRadiusBehaviour": 1,
+        "points": [{
+          "_class": "curvePoint",
+          "cornerRadius": 0,
+          "curveFrom": "{0, 0}",
+          "curveMode": 1,
+          "curveTo": "{0, 0}",
+          "hasCurveFrom": false,
+          "hasCurveTo": false,
+          "point": "{0, 0}"
+        }, {
+          "_class": "curvePoint",
+          "cornerRadius": 0,
+          "curveFrom": "{1, 0}",
+          "curveMode": 1,
+          "curveTo": "{1, 0}",
+          "hasCurveFrom": false,
+          "hasCurveTo": false,
+          "point": "{1, 0}"
+        }, {
+          "_class": "curvePoint",
+          "cornerRadius": 0,
+          "curveFrom": "{1, 1}",
+          "curveMode": 1,
+          "curveTo": "{1, 1}",
+          "hasCurveFrom": false,
+          "hasCurveTo": false,
+          "point": "{1, 1}"
+        }, {
+          "_class": "curvePoint",
+          "cornerRadius": 0,
+          "curveFrom": "{0, 1}",
+          "curveMode": 1,
+          "curveTo": "{0, 1}",
+          "hasCurveFrom": false,
+          "hasCurveTo": false,
+          "point": "{0, 1}"
+        }],
+        "fixedRadius": 0,
+        "hasConvertedToNewRoundCorners": true
+      }],
+      "clippingMaskMode": 0,
+      "hasClippingMask": false,
+      "windingRule": 1
+    }, {
+      "_class": "group",
+      "do_objectID": "E6A1A108-E2E5-4B53-B79B-77A972156557",
+      "exportOptions": {
+        "_class": "exportOptions",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+      },
+      "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 164,
+        "width": 502,
+        "x": 949,
+        "y": 518
+      },
+      "isFlippedHorizontal": false,
+      "isFlippedVertical": false,
+      "isLocked": false,
+      "isVisible": true,
+      "layerListExpandedType": 0,
+      "name": "content",
+      "nameIsFixed": true,
+      "resizingConstraint": 63,
+      "resizingType": 0,
+      "rotation": 0,
+      "shouldBreakMaskChain": false,
+      "style": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "startDecorationType": 0
+      },
+      "hasClickThrough": false,
+      "layers": [{
+        "_class": "group",
+        "do_objectID": "8BD47610-FDB3-4477-9E14-B8922ADE0637",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "exportFormats": [],
+          "includedLayerIds": [],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 80,
+          "width": 502,
+          "x": 0,
+          "y": 0
+        },
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "name": "title",
+        "nameIsFixed": true,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": false,
+        "style": {
+          "_class": "style",
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0
+        },
+        "hasClickThrough": false,
+        "layers": [{
+          "_class": "shapeGroup",
+          "do_objectID": "BDEC183D-4283-4CD2-82B4-532F6BCC0934",
+          "exportOptions": {
+            "_class": "exportOptions",
+            "exportFormats": [],
+            "includedLayerIds": [],
+            "layerOptions": 0,
+            "shouldTrim": false
+          },
+          "frame": {
+            "_class": "rect",
+            "constrainProportions": true,
+            "height": 80,
+            "width": 80,
+            "x": 0,
+            "y": 0
+          },
+          "isFlippedHorizontal": false,
+          "isFlippedVertical": false,
+          "isLocked": false,
+          "isVisible": true,
+          "layerListExpandedType": 1,
+          "name": "neuelabs",
+          "nameIsFixed": true,
+          "resizingConstraint": 63,
+          "resizingType": 0,
+          "rotation": 0,
+          "shouldBreakMaskChain": false,
+          "style": {
+            "_class": "style",
+            "blur": {
+              "_class": "blur",
+              "isEnabled": false,
+              "center": "{0.5, 0.5}",
+              "motionAngle": 0,
+              "radius": 20,
+              "type": 0
+            },
+            "endDecorationType": 0,
+            "fills": [{
+              "_class": "fill",
+              "isEnabled": true,
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "fillType": 0,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }],
+            "miterLimit": 10,
+            "startDecorationType": 0
+          },
+          "hasClickThrough": false,
+          "layers": [{
+            "_class": "oval",
+            "do_objectID": "541BF59E-7575-40A7-8D33-67EC797BAC7D",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [],
+              "includedLayerIds": [],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": false,
+              "height": 80,
+              "width": 80,
+              "x": 0,
+              "y": 0
+            },
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "Oval 2",
+            "nameIsFixed": false,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "booleanOperation": 1,
+            "edited": false,
+            "isClosed": true,
+            "pointRadiusBehaviour": 1,
+            "points": [{
+              "_class": "curvePoint",
+              "cornerRadius": 0,
+              "curveFrom": "{0.77614237490000004, 1}",
+              "curveMode": 2,
+              "curveTo": "{0.22385762510000001, 1}",
+              "hasCurveFrom": true,
+              "hasCurveTo": true,
+              "point": "{0.5, 1}"
+            }, {
+              "_class": "curvePoint",
+              "cornerRadius": 0,
+              "curveFrom": "{1, 0.22385762510000001}",
+              "curveMode": 2,
+              "curveTo": "{1, 0.77614237490000004}",
+              "hasCurveFrom": true,
+              "hasCurveTo": true,
+              "point": "{1, 0.5}"
+            }, {
+              "_class": "curvePoint",
+              "cornerRadius": 0,
+              "curveFrom": "{0.22385762510000001, 0}",
+              "curveMode": 2,
+              "curveTo": "{0.77614237490000004, 0}",
+              "hasCurveFrom": true,
+              "hasCurveTo": true,
+              "point": "{0.5, 0}"
+            }, {
+              "_class": "curvePoint",
+              "cornerRadius": 0,
+              "curveFrom": "{0, 0.77614237490000004}",
+              "curveMode": 2,
+              "curveTo": "{0, 0.22385762510000001}",
+              "hasCurveFrom": true,
+              "hasCurveTo": true,
+              "point": "{0, 0.5}"
+            }]
+          }, {
+            "_class": "oval",
+            "do_objectID": "5002CA5A-7A85-40BC-8A9A-AC72D601F85D",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "do_objectID": "5313637E-402F-486F-B4A6-E7D45A932D5A",
+              "exportFormats": [],
+              "includedLayerIds": [],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "frame": {
+              "_class": "rect",
+              "do_objectID": "125CA191-121E-4398-A497-8AD385A5E7D3",
+              "constrainProportions": false,
+              "height": 64,
+              "width": 64,
+              "x": 8,
+              "y": 8
+            },
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "Oval 2",
+            "nameIsFixed": false,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "booleanOperation": 1,
+            "edited": false,
+            "isClosed": true,
+            "pointRadiusBehaviour": 1,
+            "points": [{
+              "_class": "curvePoint",
+              "cornerRadius": 0,
+              "curveFrom": "{0.77614237490000004, 1}",
+              "curveMode": 2,
+              "curveTo": "{0.22385762510000001, 1}",
+              "hasCurveFrom": true,
+              "hasCurveTo": true,
+              "point": "{0.5, 1}"
+            }, {
+              "_class": "curvePoint",
+              "cornerRadius": 0,
+              "curveFrom": "{1, 0.22385762510000001}",
+              "curveMode": 2,
+              "curveTo": "{1, 0.77614237490000004}",
+              "hasCurveFrom": true,
+              "hasCurveTo": true,
+              "point": "{1, 0.5}"
+            }, {
+              "_class": "curvePoint",
+              "cornerRadius": 0,
+              "curveFrom": "{0.22385762510000001, 0}",
+              "curveMode": 2,
+              "curveTo": "{0.77614237490000004, 0}",
+              "hasCurveFrom": true,
+              "hasCurveTo": true,
+              "point": "{0.5, 0}"
+            }, {
+              "_class": "curvePoint",
+              "cornerRadius": 0,
+              "curveFrom": "{0, 0.77614237490000004}",
+              "curveMode": 2,
+              "curveTo": "{0, 0.22385762510000001}",
+              "hasCurveFrom": true,
+              "hasCurveTo": true,
+              "point": "{0, 0.5}"
+            }]
+          }],
+          "clippingMaskMode": 0,
+          "hasClippingMask": false,
+          "windingRule": 1
+        }, {
+          "_class": "text",
+          "do_objectID": "B93030ED-0B2B-46A2-8F5D-F88F87B4C638",
+          "exportOptions": {
+            "_class": "exportOptions",
+            "exportFormats": [],
+            "includedLayerIds": [],
+            "layerOptions": 0,
+            "shouldTrim": false
+          },
+          "frame": {
+            "_class": "rect",
+            "constrainProportions": false,
+            "height": 68,
+            "width": 221,
+            "x": 112,
+            "y": 6
+          },
+          "isFlippedHorizontal": false,
+          "isFlippedVertical": false,
+          "isLocked": false,
+          "isVisible": true,
+          "layerListExpandedType": 0,
+          "name": "neuelabs",
+          "nameIsFixed": false,
+          "resizingConstraint": 47,
+          "resizingType": 0,
+          "rotation": 0,
+          "shouldBreakMaskChain": false,
+          "style": {
+            "_class": "style",
+            "endDecorationType": 0,
+            "miterLimit": 10,
+            "startDecorationType": 0,
+            "textStyle": {
+              "_class": "textStyle",
+              "encodedAttributes": {
+                "MSAttributedStringFontAttribute": {
+                  "_class": "fontDescriptor",
+                  "attributes": {
+                    "name": "AvenirNext-Bold",
+                    "size": 50
+                  }
+                },
+                "MSAttributedStringColorAttribute": {
+                  "_class": "color",
+                  "alpha": 1,
+                  "blue": 0,
+                  "green": 0,
+                  "red": 0
+                },
+                "textStyleVerticalAlignmentKey": 0,
+                "paragraphStyle": {
+                  "_class": "paragraphStyle",
+                  "alignment": 0,
+                  "allowsDefaultTighteningForTruncation": 0
+                },
+                "kerning": 0
+              },
+              "verticalAlignment": 0
+            }
+          },
+          "attributedString": {
+            "_class": "attributedString",
+            "string": "neuelabs",
+            "attributes": [{
+              "_class": "stringAttribute",
+              "location": 0,
+              "length": 8,
+              "attributes": {
+                "MSAttributedStringFontAttribute": {
+                  "_class": "fontDescriptor",
+                  "attributes": {
+                    "name": "AvenirNext-Bold",
+                    "size": 50
+                  }
+                },
+                "MSAttributedStringColorAttribute": {
+                  "_class": "color",
+                  "alpha": 1,
+                  "blue": 0,
+                  "green": 0,
+                  "red": 0
+                },
+                "textStyleVerticalAlignmentKey": 0,
+                "paragraphStyle": {
+                  "_class": "paragraphStyle",
+                  "alignment": 0,
+                  "allowsDefaultTighteningForTruncation": 0
+                },
+                "kerning": 0
+              }
+            }]
+          },
+          "automaticallyDrawOnUnderlyingPath": false,
+          "dontSynchroniseWithSymbol": false,
+          "glyphBounds": "{{3, 12}, {217, 39}}",
+          "lineSpacingBehaviour": 2,
+          "textBehaviour": 0
+        }, {
+          "_class": "text",
+          "do_objectID": "1848B928-0CCE-40D0-A032-0F76E8FC5BFE",
+          "exportOptions": {
+            "_class": "exportOptions",
+            "do_objectID": "6FB886CA-B1F4-4343-84B0-1868084B5F3B",
+            "exportFormats": [],
+            "includedLayerIds": [],
+            "layerOptions": 0,
+            "shouldTrim": false
+          },
+          "frame": {
+            "_class": "rect",
+            "do_objectID": "83F37497-EE4D-4F83-BFDA-7D29E9DEE559",
+            "constrainProportions": false,
+            "height": 68,
+            "width": 153,
+            "x": 349,
+            "y": 6
+          },
+          "isFlippedHorizontal": false,
+          "isFlippedVertical": false,
+          "isLocked": false,
+          "isVisible": true,
+          "layerListExpandedType": 0,
+          "name": "button",
+          "nameIsFixed": false,
+          "resizingConstraint": 47,
+          "resizingType": 0,
+          "rotation": 0,
+          "shouldBreakMaskChain": false,
+          "style": {
+            "_class": "style",
+            "do_objectID": "7D3FAD11-C9E0-45D3-9615-B6BE997FB975",
+            "endDecorationType": 0,
+            "miterLimit": 10,
+            "startDecorationType": 0,
+            "textStyle": {
+              "_class": "textStyle",
+              "do_objectID": "7C264763-7E13-42A9-AD82-378BFCFA1A5A",
+              "encodedAttributes": {
+                "MSAttributedStringFontAttribute": {
+                  "_class": "fontDescriptor",
+                  "attributes": {
+                    "name": "AvenirNext-Regular",
+                    "size": 50
+                  }
+                },
+                "MSAttributedStringColorAttribute": {
+                  "_class": "color",
+                  "alpha": 1,
+                  "blue": 0.5490196078431373,
+                  "green": 0.4666666666666666,
+                  "red": 0.4196078431372549
+                },
+                "textStyleVerticalAlignmentKey": 0,
+                "paragraphStyle": {
+                  "_class": "paragraphStyle",
+                  "alignment": 0,
+                  "allowsDefaultTighteningForTruncation": 0
+                },
+                "kerning": 0
+              },
+              "verticalAlignment": 0
+            }
+          },
+          "attributedString": {
+            "_class": "attributedString",
+            "string": "button",
+            "attributes": [{
+              "_class": "stringAttribute",
+              "location": 0,
+              "length": 6,
+              "attributes": {
+                "MSAttributedStringFontAttribute": {
+                  "_class": "fontDescriptor",
+                  "attributes": {
+                    "name": "AvenirNext-Regular",
+                    "size": 50
+                  }
+                },
+                "MSAttributedStringColorAttribute": {
+                  "_class": "color",
+                  "alpha": 1,
+                  "blue": 0.5490196078431373,
+                  "green": 0.4666666666666666,
+                  "red": 0.4196078431372549
+                },
+                "kerning": 0,
+                "textStyleVerticalAlignmentKey": 0,
+                "paragraphStyle": {
+                  "_class": "paragraphStyle",
+                  "alignment": 0,
+                  "allowsDefaultTighteningForTruncation": 0
+                }
+              }
+            }]
+          },
+          "automaticallyDrawOnUnderlyingPath": false,
+          "dontSynchroniseWithSymbol": false,
+          "glyphBounds": "{{4, 12}, {144, 39}}",
+          "lineSpacingBehaviour": 2,
+          "textBehaviour": 0
+        }]
+      }, {
+        "_class": "text",
+        "do_objectID": "A2A69DA1-0705-4118-B3AA-74184DD238B8",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "do_objectID": "F838B08C-CF89-4B92-ADDE-F875A71C83DA",
+          "exportFormats": [],
+          "includedLayerIds": [],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "do_objectID": "0CB27BBE-1502-4084-B34E-C62BFBC3D484",
+          "constrainProportions": false,
+          "height": 44,
+          "width": 302,
+          "x": 100,
+          "y": 120
+        },
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 0,
+        "name": "a button component",
+        "nameIsFixed": false,
+        "resizingConstraint": 47,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": false,
+        "style": {
+          "_class": "style",
+          "do_objectID": "FD45A6F0-013E-45F5-ADD1-6D7265C474FE",
+          "endDecorationType": 0,
+          "miterLimit": 10,
+          "startDecorationType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "do_objectID": "DA6F6C8A-09F9-424C-B936-0D112E49EC95",
+            "encodedAttributes": {
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "AvenirNext-Medium",
+                  "size": 32
+                }
+              },
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.5490196078431373,
+                "green": 0.4666666666666666,
+                "red": 0.4196078431372549
+              },
+              "textStyleVerticalAlignmentKey": 0,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0
+              },
+              "kerning": 0
+            },
+            "verticalAlignment": 0
+          }
+        },
+        "attributedString": {
+          "_class": "attributedString",
+          "string": "a button component",
+          "attributes": [{
+            "_class": "stringAttribute",
+            "location": 0,
+            "length": 18,
+            "attributes": {
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "AvenirNext-Medium",
+                  "size": 32
+                }
+              },
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.5490196078431373,
+                "green": 0.4666666666666666,
+                "red": 0.4196078431372549
+              },
+              "kerning": 0,
+              "textStyleVerticalAlignmentKey": 0,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0
+              }
+            }
+          }]
+        },
+        "automaticallyDrawOnUnderlyingPath": false,
+        "dontSynchroniseWithSymbol": false,
+        "glyphBounds": "{{1, 7}, {300, 33}}",
+        "lineSpacingBehaviour": 2,
+        "textBehaviour": 0
+      }]
+    }]
+  }],
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 477,
+    "guides": []
+  },
+  "includeInCloudUpload": true,
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 80,
+    "guides": []
+  }
+}

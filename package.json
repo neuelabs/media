@@ -1,0 +1,16 @@
+{
+  "name": "media",
+  "version": "0.0.0",
+  "description": "neuelabs media assets",
+  "main": "index.js",
+  "repository": "https://github.com/neuelabs/media.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "push": "sketch-json",
+    "pull": "sketch-json --json"
+  },
+  "devDependencies": {
+    "sketch-json-cli": "^0.0.3"
+  }
+}
